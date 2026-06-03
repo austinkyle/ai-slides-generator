@@ -69,7 +69,7 @@ ai-slides-generator/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/therealaustinkyle/ai-slides-generator.git
+git clone https://github.com/austinkyle/ai-slides-generator.git
 cd ai-slides-generator
 ```
 
