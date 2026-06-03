@@ -6,6 +6,14 @@ A web-based tool that converts a `.docx` document into a fully styled PowerPoint
 
 ---
 
+## 🎬 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/rTvLqMT_cHE/0.jpg)](https://youtu.be/rTvLqMT_cHE)
+
+> Full pipeline running live — .docx upload to finished PowerPoint download.
+
+---
+
 ## How It Works
 
 ```
@@ -127,12 +135,6 @@ Open your browser to **[http://localhost:5000](http://localhost:5000)**
 | GET    | `/status`   | Returns `{status, stage, filename, error}`       |
 | GET    | `/download` | Downloads the finished `.pptx`                   |
 | POST   | `/reset`    | Resets pipeline state to `idle`                  |
-
----
-
-## Screenshots
-
-> _Coming soon — add screenshots after running a demo._
 
 ---
 
